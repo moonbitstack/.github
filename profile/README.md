@@ -8,5 +8,3 @@
   <a href="https://moonbitstack.github.io">Website</a> ·
   <a href="https://github.com/orgs/moonbitstack/repositories">Repositories</a>
 </p>
-
-Packages are published on mooncakes under `moonbitstack/`, for example `moon add moonbitstack/moonapi`. All projects are licensed under Apache-2.0.
